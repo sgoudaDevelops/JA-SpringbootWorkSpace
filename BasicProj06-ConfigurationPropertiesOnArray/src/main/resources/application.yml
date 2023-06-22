@@ -1,0 +1,26 @@
+//softtek:
+  size: 600
+org:
+  softtek:
+    addrss: Banglore
+    company:
+      addrss: Banglore
+      contact: 567832678
+      name: Softtek
+      pincode: 560076
+      size: 100
+    contact: 567832678
+    ename: shivan
+    eno: '001'
+    favcolour:
+    - red
+    - blue
+    idetails:
+      adhar: 23456756789
+      pan: 234567896
+    name: Softtek
+    nick-name: bunty,chintu
+    phone-numbers:
+    - 4567898765
+    - 34569876456
+    pincode: 560076
